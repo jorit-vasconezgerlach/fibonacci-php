@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue';
+}
+
+p {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #222222;
+    color: #F2F2F2;
+    font-size: 16px;
+    background: #000000;
+}
+
+hr.px40{
+    margin-top: 40px;
+}
